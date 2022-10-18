@@ -1,2 +1,1 @@
-Personal website
-using html, css, js
+Personal website using html, css, js. Ongoing project
